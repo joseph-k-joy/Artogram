@@ -313,9 +313,11 @@ The database includes pre-configured demo users to explore all roles:
 
 ## 10. Team Members
 
-- **Joseph K Joy** — *Lead Full-Stack Software Engineer, System Architect & UI/UX Designer*
-  - GitHub: [@joseph-k-joy](https://github.com/joseph-k-joy)
-  - Project Repository: [https://github.com/joseph-k-joy/Artogram](https://github.com/joseph-k-joy/Artogram)
+- **Joseph K Joy** — *Lead Backend Software Engineer, System Architect & UI/UX Designer*
+- **Sneha T Shine**- *frontend software Engineer*
+- GitHub: [@joseph-k-joy](https://github.com/joseph-k-joy)
+- [@snehatshine](https://github.com/snehatshine)
+- Project Repository: [https://github.com/joseph-k-joy/Artogram](https://github.com/joseph-k-joy/Artogram)
 
 ---
 
