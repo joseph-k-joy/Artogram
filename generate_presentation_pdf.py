@@ -202,7 +202,7 @@ def build_deck(filename="Artogram_Presentation_Deck.pdf"):
         ],
         [
             Paragraph("<b>Central Feature:</b> Artogram Digital Identity Card Component", body_style),
-            Paragraph("<b>Author:</b> Joseph K Joy (Lead Engineer & Architect)", body_style)
+            Paragraph("<b>Team:</b> Joseph K Joy (Backend & Architecture) &bull; Sneha T Shine (Frontend Developer)", body_style)
         ],
         [
             Paragraph("<b>Target Environment:</b> Localhost (Fully Operational & Seeded)", body_style),
