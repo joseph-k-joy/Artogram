@@ -1,3 +1,4 @@
+*.pdf
 # Python & Django
 *.pyc
 __pycache__/
