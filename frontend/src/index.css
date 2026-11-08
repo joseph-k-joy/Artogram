@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-terracotta: #C85A32;
+    --color-terracotta-dark: #A9431E;
+    --color-terracotta-light: #F18A66;
+    --color-sand: #E8DEC8;
+    --color-sand-light: #F4EFE6;
+    --color-cream: #FAF7F2;
+    --color-olive: #5C6B47;
+    --color-olive-dark: #475336;
+    --color-brown: #3D271D;
+    --color-charcoal: #211C19;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-charcoal);
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Subtle cultural geometric background motif */
+.cultural-pattern {
+  background-color: #FAF7F2;
+  background-image: radial-gradient(#C85A32 0.75px, transparent 0.75px), radial-gradient(#3D271D 0.75px, #FAF7F2 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  background-opacity: 0.05;
+}
+
+.culture-border {
+  border-image: linear-gradient(to right, #C85A32, #E8DEC8, #5C6B47) 1;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F4EFE6;
+}
+::-webkit-scrollbar-thumb {
+  background: #C85A32;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A9431E;
+}

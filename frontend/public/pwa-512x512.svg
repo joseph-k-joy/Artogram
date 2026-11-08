@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#FAF7F2"/>
+  <rect x="24" y="24" width="464" height="464" rx="80" fill="none" stroke="#C85A32" stroke-width="8" stroke-dasharray="16 8"/>
+  <circle cx="256" cy="256" r="160" fill="#C85A32" opacity="0.12"/>
+  <!-- Cultural sun/spiral motif -->
+  <path d="M 256 120 C 180 120 120 180 120 256 C 120 332 180 392 256 392 C 310 392 355 350 355 300 C 355 260 320 230 280 230 C 250 230 230 250 230 270 C 230 285 240 295 255 295 C 265 295 270 288 270 280" fill="none" stroke="#C85A32" stroke-width="20" stroke-linecap="round"/>
+  <!-- Digital seal stamp corner -->
+  <polygon points="380,120 400,120 400,140" fill="none" stroke="#5C6B47" stroke-width="6"/>
+  <polygon points="132,380 112,380 112,360" fill="none" stroke="#5C6B47" stroke-width="6"/>
+  <text x="256" y="440" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#3D271D" text-anchor="middle" letter-spacing="4">ARTOGRAM</text>
+</svg>
